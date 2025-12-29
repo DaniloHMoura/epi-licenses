@@ -1,0 +1,17 @@
+{
+  "licenses": {
+    "trial": {
+      "description": "Licença trial automática (não verificar online)",
+      "max_companies": 5,
+      "max_users": 20
+    }
+  },
+  "clients": {
+    "EXEMPLO-CLIENTE-1": {
+      "license_key": "ABCDE-FGHIJ-KLMNO-PQRST-UVWXY",
+      "expiration_date": "2026-12-31",
+      "max_companies": 10,
+      "max_users": 50
+    }
+  }
+}
