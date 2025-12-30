@@ -24,6 +24,12 @@
       "expiration_date": "2026-12-31",
       "max_companies": 20,
       "max_users": 200
+    },
+    "a": {
+      "license_key": "A1B2C-3D4E5-F6G7H-8I9J0-KLMNO",
+      "expiration_date": "2026-12-31",
+      "max_companies": 3,
+      "max_users": 17
     }
   }
 }
