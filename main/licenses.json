@@ -7,7 +7,7 @@
     }
   },
   "clients": {
-    "EXEMPLO-CLIENTE-1": {
+    "TESTE11": {
       "license_key": "ABCDE-FGHIJ-KLMNO-PQRST-UVWXY",
       "expiration_date": "2026-12-31",
       "max_companies": 10,
