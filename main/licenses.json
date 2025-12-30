@@ -10,24 +10,20 @@
     "TESTE70": {
       "license_key": "G7K9P-4M2LQ-X8N5R-T1V3W-J6H0B",
       "expiration_date": "2026-12-31",
-      "max_companies": 2,
-      "max_users": 8
-    }
-  }
-  "clients": {
+      "max_companies": 1,
+      "max_users": 4
+    },
     "TESTE125": {
-      "license_key": "G7K9P-4M2LQ-X8N5R-T1V3W-J6H0B",
+      "license_key": "A1B2C-3D4E5-F6G7H-8I9J0-KLMNO",
       "expiration_date": "2026-12-31",
-      "max_companies": 2,
-      "max_users": 8
-    }
-  }
-"clients": {
+      "max_companies": 1,
+      "max_users": 4
+    },
     "TESTE134": {
-      "license_key": "G7K9P-4M2LQ-X8N5R-T1V3W-J6H0B",
+      "license_key": "P9Q8R-7S6T5-U4V3W-2X1Y0-ZABCD",
       "expiration_date": "2026-12-31",
-      "max_companies": 2,
-      "max_users": 8
+      "max_companies": 1,
+      "max_users": 4
     }
   }
 }
