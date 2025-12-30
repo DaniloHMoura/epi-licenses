@@ -7,11 +7,11 @@
     }
   },
   "clients": {
-    "TESTE70": {
+    "TESTE1": {
       "license_key": "G7K9P-4M2LQ-X8N5R-T1V3W-J6H0B",
       "expiration_date": "2026-12-31",
-      "max_companies": 10,
-      "max_users": 50
+      "max_companies": 2,
+      "max_users": 8
     },
     "TESTE125": {
       "license_key": "A1B2C-3D4E5-F6G7H-8I9J0-KLMNO",
