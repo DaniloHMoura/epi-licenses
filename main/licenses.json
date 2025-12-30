@@ -14,4 +14,20 @@
       "max_users": 8
     }
   }
+  "clients": {
+    "TESTE125": {
+      "license_key": "G7K9P-4M2LQ-X8N5R-T1V3W-J6H0B",
+      "expiration_date": "2026-12-31",
+      "max_companies": 2,
+      "max_users": 8
+    }
+  }
+"clients": {
+    "TESTE134": {
+      "license_key": "G7K9P-4M2LQ-X8N5R-T1V3W-J6H0B",
+      "expiration_date": "2026-12-31",
+      "max_companies": 2,
+      "max_users": 8
+    }
+  }
 }
