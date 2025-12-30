@@ -2,8 +2,8 @@
   "licenses": {
     "trial": {
       "description": "Licença trial automática",
-      "max_companies": 5,
-      "max_users": 20
+      "max_companies": 1,
+      "max_users": 4
     }
   },
   "clients": {
