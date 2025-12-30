@@ -1,14 +1,14 @@
 {
   "licenses": {
     "trial": {
-      "description": "Licença trial automática (não verificar online)",
+      "description": "Licença trial automática",
       "max_companies": 5,
       "max_users": 20
     }
   },
   "clients": {
     "TESTE33": {
-      "license_key": "ABCDE-FGHIJ-KLMNO-PQRST-UVWXY",
+      "license_key": "G7K9P-4M2LQ-X8N5R-T1V3W-J6H0B",
       "expiration_date": "2026-12-31",
       "max_companies": 10,
       "max_users": 50
