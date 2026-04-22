@@ -16,8 +16,8 @@
     "TESTE2": {
       "license_key": "G7K9P-4M2LQ-X8N5R-T1V3W-J6H0B",
       "expiration_date": "2025-12-31",
-      "max_companies": 1,
-      "max_users": 4
+      "max_companies": 6,
+      "max_users": 13
     },
     "TESTE125": {
       "license_key": "A1B2C-3D4E5-F6G7H-8I9J0-KLMNO",
